@@ -1,7 +1,5 @@
 package poly;
 
-import java.sql.SQLOutput;
-
 public abstract class PaymentMethod {
     //객체간의 공통된 특성을 추출하여 추상클래스로 작성.
 
